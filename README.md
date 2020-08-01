@@ -1,1 +1,1 @@
-This is my Blog. [https://gbutler69.github.io/blog](See on GitHUB Pages)
+This is my Blog. [See on GitHUB Pages](https://gbutler69.github.io/blog)
