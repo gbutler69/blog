@@ -1,4 +1,4 @@
-[[Back to Index]](../../README.md)
+[[Back to Index]](../../index.md)
 
 # Rust - Race Condition vs Data Race
 
