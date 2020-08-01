@@ -1,4 +1,4 @@
-# [And Then? That's All! Nothing else!](https://youtu.be/fGduOFs8Xj4?t=16)
+# [And Then? That's All! Nothing else!](https://youtu.be/fGduOFs8Xj4?t=16){:target="_blank" rel="noopener"}
 
 ## Gerald E. Butler
 
